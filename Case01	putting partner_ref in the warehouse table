@@ -4,6 +4,16 @@
     # Type:   char
     # URL image: https://docs.google.com/document/d/1ZLlnCPIvIkuWVpucEv_VFWJRQeVoQfwV5giioOgcyHg/edit#heading=h.b1vgu7a1naps
 ================================
+# field (Destination Location) 
+# Module name : ?? stock.picking
+# Field name : ?? origin
 
+    # Interface view
+        # ?? URL: https://docs.google.com/document/d/1ZLlnCPIvIkuWVpucEv_VFWJRQeVoQfwV5giioOgcyHg/edit#heading=h.msr26v5szmgk
+        
+    # Setting/Technical/Database Structure/module
+        # ?? URL: https://docs.google.com/document/d/1ZLlnCPIvIkuWVpucEv_VFWJRQeVoQfwV5giioOgcyHg/edit#heading=h.1wvsf7vnb1wt
     
+    # Check the External ID and then go to Setting/Technical/user interface/views
+        # External ID ?? Stock.view_picking_form
  
