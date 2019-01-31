@@ -2,17 +2,19 @@
     # Field:  name
     # Object: purchase.order
     # Type:   char
-    # URL image: https://docs.google.com/document/d/1ZLlnCPIvIkuWVpucEv_VFWJRQeVoQfwV5giioOgcyHg/edit#heading=h.b1vgu7a1naps
+    # URL image: https://drive.google.com/open?id=1QtrC4Cbp4BQrZ9h07NqTh20s2Uf9tlS_
 ================================
 # field (Destination Location) 
 # Module name : ?? stock.picking
-# Field name : ?? origin
+# Field name : ?? group_id
 
     # Interface view
-        # ?? URL: https://docs.google.com/document/d/1ZLlnCPIvIkuWVpucEv_VFWJRQeVoQfwV5giioOgcyHg/edit#heading=h.msr26v5szmgk
+        # ?? URL: https://drive.google.com/open?id=1G_bhw967CS8OPstRidzXa7O1QzUzsVhX
         
-    # Setting/Technical/Database Structure/module
-        # ?? URL: https://docs.google.com/document/d/1ZLlnCPIvIkuWVpucEv_VFWJRQeVoQfwV5giioOgcyHg/edit#heading=h.1wvsf7vnb1wt
+    # Setting/Technical/Database Structure/module = group_id (Field)
+        # ?? URL: https://drive.google.com/open?id=1ckG02Kdszml9GEoXEHlNcaR5X4CAzfeQ
+    # Setting/Technical/Database Structure/module = procurement.group
+        # ?? URL: https://drive.google.com/open?id=1pT_nBrVqLATIsHMbVcmlDKYRTPw2wcgc
     
     # Check the External ID and then go to Setting/Technical/user interface/views
         # External ID ?? Stock.view_picking_form
